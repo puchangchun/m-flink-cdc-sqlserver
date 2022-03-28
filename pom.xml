@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.pucc</groupId>
+    <artifactId>m-flink-cdc-sqlserver</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>flink-gl-test</module>
+        <module>flink-connector-debezium</module>
+        <module>flink-connector-sqlserver-cdc</module>
+        <module>flink-sql-connector-sqlserver-cdc</module>
+    </modules>
+
+    <properties>
+        <debezium.version>1.5.4.Final</debezium.version>
+        <geometry.version>2.2.0</geometry.version>
+        <slf4j.version>1.7.15</slf4j.version>
+        <log4j.version>2.17.1</log4j.version>
+        <flink.version>1.13.3</flink.version>
+        <scala.binary.version>2.11</scala.binary.version>
+    </properties>
+
+
+
+</project>

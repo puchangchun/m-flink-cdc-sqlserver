@@ -1,0 +1,5 @@
+# Project exclude paths
+/flink-connector-debezium/target/
+/flink-connector-sqlserver-cdc/target/
+/flink-gl-test/target/
+/flink-sql-connector-sqlserver-cdc/target/

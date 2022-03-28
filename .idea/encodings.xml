@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-debezium/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-mongodb-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-mongodb-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-mysql-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-mysql-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-oracle-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-oracle-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-postgres-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-postgres-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-sqlserver-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-sqlserver-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-connector-test-util/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-mongodb-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-mongodb-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-mysql-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-mysql-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-oracle-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-oracle-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-postgres-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-postgres-cdc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-sqlserver-cdc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/flink-cdc-connectors-master/flink-sql-connector-sqlserver-cdc/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
